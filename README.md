@@ -6,8 +6,9 @@ This project showcases a **modern EV concept website** with premium animations, 
 
 ---
 
-# Preview 
-[![Watch the video](https://youtu.be/an_m4KWtD-k)](https://youtu.be/an_m4KWtD-k)
+# 🎥 Preview
+
+[![Watch the Video](https://img.youtube.com/vi/an_m4KWtD-k/maxresdefault.jpg)](https://youtu.be/an_m4KWtD-k)
 
 ---
 
