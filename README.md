@@ -77,6 +77,14 @@ If you enjoy this type of content, consider subscribing for more:
 
 ---
 
+# Repo Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/836ea1e20b31ac2a70c5806602621e3e04361bbf.svg "Repobeats analytics image")
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=abdellahaarab/VoltarisEVPRO&type=Date&theme=dark)](https://star-history.com/#abdellahaarab/VoltarisEVPRO&Date)
+
 ## 📄 License
 
 This project is for educational and inspiration purposes only.
